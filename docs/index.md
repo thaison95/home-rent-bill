@@ -3,23 +3,13 @@
 layout: home
 
 hero:
-  name: "Sunview cc bill"
-  text: "Tien nha"
-  tagline: My great project tagline
+  name: "Sunview town, căn hộ A1-03.04"
+  text: ""
+  tagline: ""
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Tiền nhà 2023
+      link: /2023
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 

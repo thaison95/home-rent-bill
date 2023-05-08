@@ -96,5 +96,19 @@ const data5 = ref([
         divideBy: [],
         owner: 1,
     },
+    {
+        name: 'Cây lau nhà',
+        cost: 260,
+        divideTo: [],
+        divideBy: [],
+        owner: 1,
+    },
+    {
+        name: 'Cây chà nhà tắm',
+        cost: 35,
+        divideTo: [],
+        divideBy: [],
+        owner: 2,
+    },
 ]);
 </script>

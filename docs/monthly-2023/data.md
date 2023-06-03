@@ -111,4 +111,28 @@ const data5 = ref([
         owner: 2,
     },
 ]);
+
+const data6 = ref([
+    {
+        name: 'Than hoạt tính máy hút mùi',
+        cost: 209,
+        divideTo: [],
+        divideBy: [],
+        owner: 2,
+    },
+    {
+        name: 'Túi rác + giấy vs',
+        cost: 110,
+        divideTo: [],
+        divideBy: [],
+        owner: 2,
+    },
+    {
+        name: '6 bình ga + dầu ăn + nước rửa chén',
+        cost: 110,
+        divideTo: [1,2,3],
+        divideBy: [],
+        owner: 4,
+    },
+]);
 </script>

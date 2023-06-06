@@ -114,25 +114,53 @@ const data5 = ref([
 
 const data6 = ref([
     {
-        name: 'Than hoạt tính máy hút mùi',
-        cost: 209,
+        name: 'Nhà tháng 6',
+        cost: 6500,
         divideTo: [],
         divideBy: [],
-        owner: 2,
+        owner: 1,
     },
     {
-        name: 'Túi rác + giấy vs',
-        cost: 110,
+        name: 'Phí qly tháng 6',
+        cost: 418,
         divideTo: [],
         divideBy: [],
-        owner: 2,
+        owner: 1,
     },
     {
-        name: '6 bình ga + dầu ăn + nước rửa chén',
-        cost: 110,
-        divideTo: [1,2,3],
+        name: 'Tiền gửi xe tháng 6',
+        cost: 300,
+        divideTo: [1, 2, 4],
         divideBy: [],
-        owner: 4,
+        owner: 1,
+    },
+    {
+        name: 'Nước sinh hoạt tháng 5 (8 khối)',
+        cost: 68,
+        divideTo: [],
+        divideBy: [],
+        owner: 1,
+    },
+    {
+        name: 'Tiền điện tháng 5',
+        cost: 182,
+        divideTo: [],
+        divideBy: [],
+        owner: 1,
+    },
+    {
+        name: 'Nước uống (4 bình)',
+        cost: 212,
+        divideTo: [],
+        divideBy: [],
+        owner: 1,
+    },
+    {
+        name: 'Tiền mạng (6 tháng)',
+        cost: 235,
+        divideTo: [],
+        divideBy: [0,0,0,1],
+        owner: 1,
     },
 ]);
 </script>

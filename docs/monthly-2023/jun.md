@@ -48,4 +48,4 @@
 **Note:**
 - *: Người thanh toán
 
-:point_right: [HÓA ĐƠN/BIÊN LAI](/bills/t5-2023)
+:point_right: [HÓA ĐƠN/BIÊN LAI](/bills/t6-2023)

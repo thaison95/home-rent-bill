@@ -163,4 +163,42 @@ const data6 = ref([
         owner: 1,
     },
 ]);
+
+const data7 = ref([
+    {
+        name: 'Nhà tháng 7',
+        cost: 6500,
+        divideTo: [],
+        divideBy: [],
+        owner: 1,
+    },
+    {
+        name: 'Phí qly tháng 7',
+        cost: 418,
+        divideTo: [],
+        divideBy: [],
+        owner: 1,
+    },
+    {
+        name: 'Tiền gửi xe tháng 7',
+        cost: 300,
+        divideTo: [1, 2, 4],
+        divideBy: [],
+        owner: 1,
+    },
+    {
+        name: 'Nước sinh hoạt tháng 6 (12 khối)',
+        cost: 102,
+        divideTo: [],
+        divideBy: [],
+        owner: 1,
+    },
+    {
+        name: 'Tiền điện tháng 6',
+        cost: 319,
+        divideTo: [],
+        divideBy: [],
+        owner: 1,
+    },
+]);
 </script>

@@ -7,7 +7,7 @@
         <th>Sơn</th>
         <th>Cảnh</th>
         <th>Châu</th>
-        <th>Nhân&</th>
+        <th>Nhân</th>
     </thead>
     <tbody>
         <tr>

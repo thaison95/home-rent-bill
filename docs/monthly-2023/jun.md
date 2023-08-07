@@ -47,6 +47,5 @@
 
 **Note:**
 - *: Người thanh toán
-- Chưa thanh toán: Nhân
 
 :point_right: [HÓA ĐƠN/BIÊN LAI](/bills/t6-2023)

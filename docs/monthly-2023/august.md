@@ -2,7 +2,7 @@
 
 <table>
     <thead>
-        <th></th>
+        <th>&emsp;&emsp;&emsp;&emsp;&emsp;</th>
         <th>_giá_</th>
         <th>Sơn</th>
         <th>Cảnh</th>

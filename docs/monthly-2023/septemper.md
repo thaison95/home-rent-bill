@@ -58,4 +58,4 @@
 - Tháng này đổi kì thanh toán điện sang đầu tháng (bình thường giữa tháng) nên tiền điện tăng.
 - Châu hôm trước đã đóng sinh hoạt phí (tiền ăn) 900k, nên giờ còn lại 100k.
 
-:point_right: [HÓA ĐƠN/BIÊN LAI](/bills/t8-2023)
+:point_right: [HÓA ĐƠN/BIÊN LAI](/bills/t9-2023)

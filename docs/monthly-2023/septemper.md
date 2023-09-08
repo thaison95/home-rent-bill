@@ -29,10 +29,10 @@
         <tr>
             <td><i>Sinh hoạt phí</i></td>
             <td><i>_</i></td>
-            <td><i>{{data9Other[0]}}</i></td>
-            <td><i>{{data9Other[1]}}</i></td>
-            <td><i>{{data9Other[2]}}</i></td>
-            <td><i>{{data9Other[3]}}</i></td>
+            <td><i>{{data9Other && data9Other[0]}}</i></td>
+            <td><i>{{data9Other && data9Other[1]}}</i></td>
+            <td><i>{{data9Other && data9Other[2]}}</i></td>
+            <td><i>{{data9Other && data9Other[3]}}</i></td>
         </tr>
         <tr>
             <td><i>Đã chi</i></td>

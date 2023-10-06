@@ -279,4 +279,44 @@ const data9 = ref([
     },
 ]);
 
+const data10Other = [27, -81, 27, 27];
+// const data10Other = [0, 0, 0, 0];
+const data10 = ref([
+    {
+        name: 'Nhà tháng 10',
+        cost: 6500,
+        divideTo: [],
+        divideBy: [],
+        owner: 1,
+    },
+    {
+        name: 'Phí qly tháng 10',
+        cost: 418,
+        divideTo: [],
+        divideBy: [],
+        owner: 1,
+    },
+    {
+        name: 'Tiền gửi xe tháng 10',
+        cost: 300,
+        divideTo: [1, 2, 4],
+        divideBy: [],
+        owner: 1,
+    },
+    {
+        name: 'Nước sinh hoạt tháng 9 (10m3)',
+        cost: 85,
+        divideTo: [],
+        divideBy: [],
+        owner: 1,
+    },
+    {
+        name: 'Tiền điện tháng 9',
+        cost: 342,
+        divideTo: [],
+        divideBy: [],
+        owner: 1,
+    },
+]);
+
 </script>

@@ -7,14 +7,14 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '2023', link: '/2023' },
-      // { text: 'Examples', link: '/markdown-examples' }
+      { text: '2024', link: '/2024' },
     ],
 
     sidebar: [
       {
         text: 'Tiền nhà',
         items: [
+          { text: '2024', link: '/2024' },
           { text: '2023', link: '/2023' },
         ]
       },

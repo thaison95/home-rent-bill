@@ -8,8 +8,10 @@ hero:
   tagline: ""
   actions:
     - theme: brand
+      text: Tiền nhà 2024
+      link: /2024
+    - theme: alt
       text: Tiền nhà 2023
       link: /2023
-
 ---
 

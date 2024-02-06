@@ -55,4 +55,49 @@ const data1 = ref([
     },
 ]);
 
+// S C Ch L
+const data2Other = [-577, 200, 292, 85];
+const data2 = ref([
+    {
+        name: 'Nhà tháng 2',
+        cost: 6500,
+        divideTo: [],
+        owner: 1,
+    },
+    {
+        name: 'Phí qly tháng 2',
+        cost: 418,
+        divideTo: [],
+        owner: 1,
+    },
+    {
+        name: 'Tiền gửi xe tháng 2',
+        cost: 300,
+        divideTo: [1, 2, 4],
+        owner: 1,
+    },
+    {
+        name: 'Tiền mạng tháng 1',
+        cost: 220,
+        divideTo: [],
+        owner: 1,
+    },
+    {
+        name: 'Nước sh tháng 1 (12m3)',
+        cost: 106,
+        divideTo: [],
+        owner: 1,
+    },
+    {
+        name: 'Tiền điện tháng 1',
+        cost: 450,
+        divideTo: [],
+        additionToMe: 100,
+        owner: 1,
+        mark: {
+            1: '(1)'
+        }
+    },
+]);
+
 </script>

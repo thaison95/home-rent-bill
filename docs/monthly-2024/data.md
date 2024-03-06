@@ -100,4 +100,45 @@ const data2 = ref([
     },
 ]);
 
+// S C L
+const data3Other = [0, 0, 0];
+const data3 = ref([
+    {
+        name: 'Nhà tháng 3',
+        cost: 6500,
+        divideTo: [],
+        owner: 1,
+    },
+    {
+        name: 'Phí qly tháng 3',
+        cost: 418,
+        divideTo: [],
+        owner: 1,
+    },
+    {
+        name: 'Tiền gửi xe tháng 3',
+        cost: 300,
+        divideTo: [],
+        owner: 1,
+    },
+    {
+        name: 'Tiền mạng tháng 2 (**)',
+        cost: 165,
+        divideTo: [],
+        owner: 1,
+    },
+    {
+        name: 'Nước sh tháng 2 (7m3)',
+        cost: 62,
+        divideTo: [],
+        owner: 1,
+    },
+    {
+        name: 'Tiền điện tháng 2 (**)',
+        cost: 160,
+        divideTo: [],
+        owner: 1,
+    },
+]);
+
 </script>

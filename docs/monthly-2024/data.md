@@ -182,4 +182,46 @@ const data4 = ref([
     },
 ]);
 
+// S C L
+const data5Other = [80, 80, 80];
+const data5 = ref([
+    {
+        name: 'Nhà tháng 5',
+        cost: 6500,
+        divideTo: [1, 2],
+        additionToMe: 500,
+        owner: 1,
+    },
+    {
+        name: 'Phí qly tháng 5',
+        cost: 418,
+        divideTo: [1, 2],
+        owner: 1,
+    },
+    {
+        name: 'Tiền gửi xe tháng 5',
+        cost: 200,
+        divideTo: [1, 2],
+        owner: 1,
+    },
+    {
+        name: 'Tiền mạng tháng 4',
+        cost: 220,
+        divideTo: [],
+        owner: 1,
+    },
+    {
+        name: 'Nước sh tháng 4 (9m3)',
+        cost: 80,
+        divideTo: [],
+        owner: 1,
+    },
+    {
+        name: 'Tiền điện tháng 4',
+        cost: 350,
+        divideTo: [],
+        owner: 1,
+    },
+]);
+
 </script>

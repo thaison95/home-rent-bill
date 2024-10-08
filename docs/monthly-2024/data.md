@@ -442,7 +442,7 @@ const data10 = ref([
     },
     {
         name: 'Tiền điện tháng 9',
-        cost: 320,
+        cost: 315,
         divideTo: [],
         additionToMe: Math.floor(300/3),
         owner: 1,

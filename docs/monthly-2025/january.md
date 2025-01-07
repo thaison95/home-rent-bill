@@ -45,3 +45,5 @@
 - *: Người thanh toán
 - Sinh hoạt phí: nước uống
 
+:point_right: [HÓA ĐƠN/BIÊN LAI](/bills-2025/jan/index.md)
+

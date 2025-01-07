@@ -33,8 +33,8 @@ const data1 = ref([
         owner: 1,
     },
     {
-        name: 'Nước sh tháng 12 (9m3)',
-        cost: 171,
+        name: 'Nước sh tháng 12 (7m3)',
+        cost: 133,
         divideTo: [],
         additionToMe: Math.floor(171/3),
         owner: 1,
@@ -44,6 +44,13 @@ const data1 = ref([
         cost: 315,
         divideTo: [],
         additionToMe: Math.floor(315/3),
+        owner: 1,
+    },
+    {
+        name: 'Phí bảo hiểm cháy nổ',
+        cost: 220,
+        divideTo: [],
+        additionToMe: Math.floor(220/3),
         owner: 1,
     },
 ]);

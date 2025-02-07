@@ -87,10 +87,10 @@ const data2 = ref([
         owner: 1,
     },
     {
-        name: 'Nước sh tháng 1 (7m3)', // TODO
-        cost: 133,
+        name: 'Nước sh tháng 1',
+        cost: 157,
         divideTo: [],
-        additionToMe: Math.floor(133/3),
+        additionToMe: Math.floor(157/3),
         owner: 1,
     },
     {
